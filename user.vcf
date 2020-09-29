@@ -7,7 +7,7 @@ ORG:BLV Passage;
 TITLE:Art Blogger\nTravel Blogger, 
 EMAIL;type=INTERNET;type=WORK;type=pref:brittany@blvpassage.com
 TEL;type=WORK;type=TEXT:+914 380 9192
-item1.ADR;type=WORK;type=pref:;;1101 Cumberland Ave\n201H\, #686\n Tampa;;;33602; FL
+item1.ADR;type=WORK;type=pref:;;1101 Cumberland Ave\,\n201H\, #686\n Tampa;;;33602; FL
 item1.X-ABADR:sg
 item2.URL;type=pref:Website Coming Soon
 item2.X-ABLabel:_$!<HomePage>!$_
